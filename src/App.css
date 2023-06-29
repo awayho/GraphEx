@@ -1,0 +1,26 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+ }
+ .navbar {
+  background-color: #000;
+  color: white;
+  padding: 10px;
+ }
+ .navbar ul {
+  display: flex;
+  width: 1260px;
+  margin: 0px auto;
+  font-size: 14px;
+  list-style: none;
+ }
+ .navbar ul li {
+  margin: 10px;
+ }
+
+ .App {
+  background: #ffffff;
+  height: 100vh;
+ }
+
